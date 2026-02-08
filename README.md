@@ -22,11 +22,12 @@ setup phase.
 
 ## 🧱 Repository Structure
 
+```text
 relay/
 ├── backend/ # Backend server (Node.js)
 ├── frontend/ # Frontend client (Vite + React)
 └── README.md
-
+```
 
 Each major part of the system is kept separate to allow independent development
 and clearer documentation.
@@ -71,4 +72,3 @@ A `/docs` directory may be introduced as the project grows.
 
 This project is licensed under the **MIT License**.
 See the [LICENSE](./LICENSE) file for details.
-
